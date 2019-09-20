@@ -109,6 +109,23 @@ footer p {
         margin-left: 25%;
         height: 98%;
     }
+    .header .menu {
+        width: 100%;
+        justify-content: space-around;
+        display: flex;
+        flex-direction: row;
+        align-items: stretch;
+        align-content: stretch;
+    }
+    .header .menu .item {
+        margin-top: 0;
+        margin-left: 10%;
+        width: 20%;
+        text-decoration: none;
+        align-items: center;
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
     .galeria {
         padding: 0;
         width: 100%;
